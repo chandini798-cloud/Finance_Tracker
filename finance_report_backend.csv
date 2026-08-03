@@ -1,0 +1,7 @@
+ID,Date,Type,Category,Amount ($),Description
+6,2026-08-01,Expense,Rent & Housing,1200.00,Monthly Apartment Rent
+5,2026-08-01,Income,Salary,3500.00,Monthly Software Engineering Salary
+1,2026-08-01,Income,Salary,4500.00,Monthly Salary
+2,2026-08-01,Expense,Rent & Housing,1400.00,Apartment Rent
+3,2026-08-02,Income,Freelance,850.00,Web Development
+4,2026-08-02,Expense,Food & Dining,125.50,Groceries
